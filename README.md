@@ -1,1 +1,1 @@
-# Auto_Selenium-Java
+# Инструменты для автоматизации тестирования с Selenium + Java
